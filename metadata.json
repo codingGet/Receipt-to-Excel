@@ -1,0 +1,5 @@
+{
+  "name": "Receipt to Excel Extractor",
+  "description": "Upload receipt images to automatically extract data and export to Excel files.",
+  "requestFramePermissions": []
+}
